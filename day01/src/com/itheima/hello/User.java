@@ -6,7 +6,6 @@ public class User {
     private double salary;
 
     public User(){
-
     }
 
     public User(String name, double height, double salary) {
